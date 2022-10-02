@@ -1,0 +1,794 @@
+
+
+
+@media (min-width:1200px)and (max-width:1399px){
+    .banner-content p {
+        padding: 0px 22px;
+    }
+}
+@media (min-width:992px)and (max-width:1199px){
+    #banner {
+        margin-top: 50px;
+    }
+    .banner-img {
+        top: -40px;
+        right: 27px;
+        width: 45%;
+    }
+    .banner-content h1 {
+        font-size: 50px;
+        line-height: 58px;
+    }
+    .banner-content span {
+        font-size: 50px;
+        line-height: 58px;
+    }
+    .brand-icon-fast {
+        margin-left: 50px;
+    }
+    #logo {
+        left: 53px;
+    }
+    .explore-right h4 {
+        font-size: 45px;
+        line-height: 116%;
+    }
+    #service {
+        margin-top: 0px;
+        padding-bottom: 0px;
+    }
+    .massage-overlay-text h2 {
+        font-size: 44px;
+        line-height: 42px;
+        margin-top: 32px;
+    }
+    .massage-overlay-text2 {
+        line-height: 22px;
+        margin-top: 9px;
+    }
+    .contact-us-header h3 {
+        margin-top: 30px;
+    }
+    .contact-form .form-label1 {
+        top: 124px;
+    }
+    .contact-form .form-label2 {
+        top: 235px;
+    }
+    .contact-form .form-label3 {
+        top: 336px;
+    }
+    .latest-blog-item {
+        width: 92%;
+        margin-left: 20px;
+    }
+}
+@media (min-width:768px)and (max-width:991px){
+    .navbar {
+        padding: 18px 0;
+    }
+    .nav-link {
+        font-size: 18px;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .navbar-toggler:hover {
+        border: none;
+    }
+    .topbar p {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    .navbar {
+        padding: 15px;
+    }
+
+    .navbar-nav {
+        margin-top: 40px;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-item {
+        margin-bottom: 15px;
+    }
+
+    .nav-icon {
+        margin-left: 15px;
+        margin-bottom: 20px;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-item.active .nav-link::after {
+        display: none;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-item:hover .nav-link::after {
+        display: none;
+    }
+    #hamburger-menu {
+        margin: 15px 110px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding-left: 295px;
+    }
+    .banner-content h1 {
+        font-size: 50px;
+        line-height: 62px;
+    }
+    #banner {
+        margin-top: 46px;
+    }
+    .banner-content span {
+        font-size: 50px;
+        line-height: 62px;
+    }
+
+    .banner-img {
+        top: 637px;
+    }
+    .brand-logo-section {
+        height: 372px;
+        border-radius: 70px;
+    }
+    .brand-icon {
+        line-height: 71px;
+        margin-left: 275px;
+    }
+    #logo {
+        left: 30px;
+        margin-top: 950px;
+    }
+    #explore {
+        padding-top: 1400px;
+    }
+    .explore-right h4 {
+        font-size: 38px;
+        line-height: 101%;
+        margin-top: 20px;
+    }
+    .about-right-content p {
+        margin-top: -143px;
+        margin-left: 132px;
+    }
+    .service-head h2 {
+        font-size: 50px;
+        line-height: 52px;
+    }
+        .service-head p {
+            margin: 0 168px;
+        }
+        .service-arrow {
+            margin-left: 262px;
+        }
+        .massage-overlay-text {
+            top: 180px;
+        }
+    
+        .massage-overlay-text h2 {
+            font-size: 23px;
+            line-height: 15px;
+        }
+    
+        .massage-l-icon i {
+            font-size: 15px;
+            top: 20px;
+            left: -65px;
+        }
+    
+        .massage-overlay-text1 {
+            font-size: 18px;
+            line-height: 20px;
+            margin-top: 0px;
+            margin-left: -40px;
+        }
+        
+    
+        .massage-overlay-text2 {
+            font-size: 18px;
+            line-height: 20px;
+            margin-top: 0px;
+            margin-left: -40px;
+        }
+    
+        .massage-r-icon i {
+            font-size: 15px;
+            top: 410px;
+            left: 330px;
+        }
+        .contact-us-header h3 {
+            font-size: 50px;
+            line-height: 52px;
+            margin-top: 30px;
+        } 
+        .contact-us-header p {
+            padding: 18px 165px;
+        }  
+        .contact-img {
+            margin-top: 30px;
+        } 
+        .latest-blog-header h2 {
+            font-size: 50px;
+            line-height: 52px;
+        }
+        .latest-blog-header p {
+            padding: 18px 138px;
+        }
+        .latest-blog-item {
+            margin-top: 75px;
+            margin-left: 95px;
+        }
+        .subscribe-header h2 {
+            font-size: 50px;
+        }
+        .subscribe-header p {
+            padding: 18px 145px;
+        }
+        .subscribe-button button {
+            margin-left: 220px;
+        }
+        .download-icon i {
+            right: 407px;
+            font-size: 22px;
+        }
+}
+@media (min-width:800px)and (max-width:991px){
+    .dot-icon i {
+        margin: 35px 0px 0 142px;
+    }
+    .service-img img {
+        margin-left: 65px;;
+    }
+}
+@media (min-width:576px)and (max-width:767px){
+    .navbar {
+        padding: 18px 0;
+    }
+    .nav-link {
+        font-size: 18px;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .navbar-toggler:hover {
+        border: none;
+    }
+    #hamburger-menu {
+        margin: 15px 120px;
+    }
+    .topbar p {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    .navbar {
+        padding: 15px;
+    }
+
+    .navbar-nav {
+        margin-top: 40px;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-item {
+        margin-bottom: 15px;
+    }
+
+    .nav-icon {
+        margin-left: 15px;
+        margin-bottom: 20px;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-item.active .nav-link::after {
+        display: none;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-item:hover .nav-link::after {
+        display: none;
+    }
+   
+    #banner {
+        margin-top: 40px;
+    }
+    .banner-content span {
+        font-size: 43px;
+        line-height: 40px;
+
+    }
+    .banner-content h1 {
+        font-size: 43px;
+        line-height: 40px;
+    }
+    .banner-content p {
+        font-size: 17px;
+        line-height: 25px;
+        margin-top: 43px;
+    }
+    .banner-left-button {
+        padding: 32px 75px;
+    }
+    .banner-right-button {
+        padding: 32px 75px;
+    }
+    .banner-right-button a {
+        font-size: 20px;
+    }
+    .banner-left-button a {
+        font-size: 20px;
+    }
+    .banner-img {
+        top: 625px;
+        right: 24px;
+    }
+    .counter-part h6 {
+        font-size: 18px;
+        line-height: 26px;
+    }
+    .banner-button {
+        margin-top: 62px;
+    }
+    .counterup {
+        padding-top: 28px;
+    }
+    #logo {
+        left: 36px;
+        margin-top: 800px;
+    }
+    .brand-logo-section {
+        height: 338px;
+        border-radius: 90px;
+    }
+    .brand-icon {
+        line-height: 90px;
+        margin-left: 185px;
+        margin-top: -24px;
+    }
+    #explore {
+        padding-top: 1190px;
+    }
+    .explore-right h4 {
+        font-size: 28px;
+        margin-top: 25px;
+    }
+    .about-right-content p {
+        line-height: 28px;
+        margin-top: -170px;
+        margin-left: 138px;
+    }
+    #service {
+        margin-top: 0px;
+    }
+    .service-head h2 {
+        font-size: 38px;
+        line-height: 22px;
+    }
+    .service-head p {
+        font-size: 18px;
+        line-height: 26px;
+        margin: 0 64px;
+    }
+    .star-icon i {
+        margin: 35px 0px 0px 118px;
+    }
+    .service-img img {
+        margin-left: 211px;
+    }
+    .service-arrow {
+        margin-left: 175px;
+    }
+    #massage-part {
+        margin-top: 0px;
+    }
+    .massage-overlay-text {
+        top: 130px;
+    }
+
+    .massage-overlay-text h2 {
+        font-size: 18px;
+        line-height: 12px;
+    }
+
+    .massage-l-icon i {
+        font-size: 15px;
+        top: 5px;
+        left: -65px;
+    }
+
+    .massage-overlay-text1 {
+        font-size: 15px;
+        line-height: 14px;
+        margin-top: 0px;
+        margin-left: -40px;
+    }
+    
+
+    .massage-overlay-text2 {
+        font-size: 15px;
+        line-height: 14px;
+        margin-top: 0px;
+        margin-left: -40px;
+    }
+
+    .massage-r-icon i {
+        font-size: 15px;
+        top: 300px;
+        left: 300px;
+    }
+    .contact-us-header h3 {
+        font-size: 40px;
+        line-height: 35px;
+        margin-top: 55px;
+    }
+    .contact-us-header p {
+        font-size: 18px;
+        padding: 14px 67px;
+    }
+
+    #latest-blog {
+        margin-top: 0px;
+    }
+    .latest-blog-header h2 {
+        font-size: 40px;
+        line-height: 35px;
+    }
+    .latest-blog-header p {
+        font-size: 18px;
+        padding: 18px 68px;
+    }
+    .latest-blog-item {
+        margin-left: 10px;
+    }
+    .subscribe-header h2 {
+        font-size: 40px;
+        line-height: 45px;
+    }
+    .subscribe-header p {
+        font-size: 18px;
+        padding: 18px 68px;
+    }
+    .download-icon i {
+        right: 281px;
+        font-size: 22px;
+    }
+}
+@media (max-width:575.99px) {
+    .nav-link {
+        font-size: 18px;
+    }
+    
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .navbar-toggler:hover {
+        border: none;
+    }
+
+    .topbar p {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    .navbar {
+        padding: 0;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+        
+    }
+    #hamburger-menu {
+        margin: -27px 222px;
+    }
+    .navbar-nav {
+        margin-top: 40px;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-item {
+        margin-bottom: 15px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding-left: 139px;
+    }
+    #banner {
+        margin-top: 28px;
+    }
+    .banner-right-button {
+        padding: 24px 34px;
+    }
+    .nav-icon {
+        margin-left: 15px;
+        margin-bottom: 20px;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-item.active .nav-link::after {
+        display: none;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-item:hover .nav-link::after {
+        display: none;
+    }
+    .banner-content span {
+        font-size: 30px;
+        line-height: 30px;
+
+    }
+    .banner-content h1 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .banner-content p {
+        font-size: 14px;
+        line-height: 20px;
+        margin-top: 40px;
+    }
+    .banner-left-button {
+        padding: 24px 34px;
+    }
+    .banner-right-button {
+        padding: 24px 34px;
+    }
+    .banner-right-button a {
+        font-size: 13px;
+    }
+    .banner-left-button a {
+        font-size: 13px;
+    }
+    .counter-part .counter, span {
+        font-size: 25px;
+    }
+    .counter-part h6 {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .banner-img {
+        top: 600px;
+        right: 9px;
+    }
+   
+    #logo {
+        margin-top: 366px;
+    }
+    .brand-icon-fast {
+        margin-top: 30px;
+    }
+
+    .brand-icon {
+        line-height: 50px;
+        margin-right: 0;
+        margin-left: 75px;
+    }
+
+    .brand-logo-section {
+        margin-left: -180px;
+        height: 323px;
+        border-radius: 60px;
+    }
+    #explore {
+        padding-top: 725px;
+}
+.explore-left-text p {
+	font-size: 14px;
+	line-height: 22px;
+}
+.explore-right h4 {
+	font-size: 30px;
+	line-height: 132%;
+}
+.about-right-content p {
+	font-size: 16px;
+	line-height: 24px;
+	margin-top: -27px;
+}
+.service-head h2 {
+	font-size: 30px;
+	line-height: 24px;
+	margin-bottom: 12px;
+}
+#about-us {
+	padding-bottom: 0px;
+}
+.service-head p {
+	font-size: 16px;
+	line-height: 25px;
+	margin: 0 0px;
+}
+.img-text h3 {
+	font-size: 16px;
+	line-height: 24px;
+	margin-top: 18px;
+}
+.about-right-content p {
+	font-size: 16px;
+	line-height: 24px;
+	margin-top: -163px;
+    margin-left: 125px;
+}
+.service-arrow {
+	margin-left: 70px;
+}
+.massage-icon i {
+	font-size: 23px;
+}
+
+#massage-part{
+    margin-top: 0px;
+}
+ .massage-overlay-text {
+        top: 68px;
+    }
+
+    .massage-overlay-text h2 {
+        font-size: 16px;
+        line-height: 10px;
+    }
+
+    .massage-l-icon i {
+        font-size: 15px;
+        top: 5px;
+        left: -55px;
+    }
+
+    .massage-overlay-text1 {
+        font-size: 13px;
+        line-height: 12px;
+        margin-top: 0px;
+        margin-left: -40px;
+    }
+    
+
+    .massage-overlay-text2 {
+        display: none;
+    }
+
+    .massage-r-icon i {
+        font-size: 15px;
+        top: 155px;
+        left: 124px;
+    }
+    .contact-us-header h3 {
+        font-size: 30px;
+        line-height: 35px;
+        margin-top: 25px;
+    }
+    .contact-us-header p {
+        font-size: 16px;
+        line-height: 26px;
+        padding: 8px 0px;
+    }
+    .contact-form .form-label1 {
+        top: 122px;
+    }
+    .contact-form .form-label2 {
+        top: 235px;
+    }
+    .contact-form .form-label3 {
+        top: 342px;
+    }
+    .contact-form input {
+        width: 265px;
+        height: 89px;
+    }
+    .contact-form textarea {
+        width: 265px;
+    }
+    .contact-img {
+        margin-top: 45px;
+    }
+    .latest-blog-header h2 {
+        font-size: 35px;
+        line-height: 38px;
+    }
+    .latest-blog-header p {
+        padding: 10px 0px;
+    }
+    .latest-blog-item {
+        width: 94%;
+        margin-left: 10px;
+    }
+    .blog-overlay {
+        top: 78%;
+        left: 52%;
+    }
+    .blog-overlay h3 {
+        font-size: 23px;
+        line-height: 30px;
+        margin-bottom: 5px;
+    }
+    .blog-overlay p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .subscribe-header h2 {
+        font-size: 34px;
+        line-height: 48px;
+        margin-bottom: 18px;
+    }
+    .subscribe-header p {
+        font-size: 18px;
+        line-height: 25px;
+        padding: 7px 0px;
+    }
+    .brand-logo-section {
+        margin-top: 210px;
+    }
+    .explore-button {
+     
+        margin-top: 144px;
+    }
+    .footer-form input {
+        padding: 15px 0px 14px 10px;
+    }
+    .w-100 {
+        width: 98% !important;
+    }
+}
+@media (min-width:400px)and (max-width:575.99px){
+    .contact-form input {
+        width: 374px;
+}
+.contact-form .form-label1 {
+	top: 102px;
+}
+.contact-form .form-label2 {
+	top: 186px;
+}
+.contact-form .form-label3 {
+	top: 269px;
+}
+.contact-form textarea {
+	width: 377px;
+}
+.footer-form input {
+    padding: 15px 0px 14px 10px;
+}
+.w-100 {
+    width: 98% !important;
+}
+.contact-form .form-label1 {
+	top: 140px;
+}
+.contact-form .form-label2 {
+	top: 246px;
+}
+.contact-form .form-label3 {
+	top: 340px;
+}
+}
+@media (min-width:500px)and (max-width:575.99px){
+    .banner-img {
+        right: 16px;
+    }
+    .brand-logo-section {
+        margin-top: 436px;
+    }
+    #explore {
+        padding-top: 955px;
+    }
+    .service-arrow {
+        margin-left: 165px;
+    }
+    .latest-blog-item {
+        width: 90%;
+        margin-left: 25px;
+    }
+    .download-icon i {
+        right: 300px;
+    }
+    .service-item {
+        margin-left: 186px;
+    }
+    .footer-form input {
+        padding: 15px 0px 14px 10px;
+    }
+    .w-100 {
+        width: 98% !important;
+    }
+    .contact-form .form-label1 {
+        top: 136px;
+    }
+    .contact-form .form-label2 {
+        top: 247px;
+    }
+    .contact-form .form-label3 {
+        top: 340px;
+    }
+}
